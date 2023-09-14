@@ -9,6 +9,9 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines": {
+    "node": "20.2.0"
+  },
   "name": "backend",
   "version": "1.0.0",
   "main": "server.js",
